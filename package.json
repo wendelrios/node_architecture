@@ -1,0 +1,22 @@
+{
+  "name": "node_architecture",
+  "version": "1.0.0",
+  "description": "Node Api applying Clean Architecture and TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendelrios/node_architecture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendelrios/node_architecture/issues"
+  },
+  "homepage": "https://github.com/wendelrios/node_architecture#readme",
+  "devDependencies": {
+    "standard": "^14.3.4"
+  }
+}
